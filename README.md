@@ -43,4 +43,5 @@ python -m http.server 8000
 
 [2026년 10월 21일까지 날짜별 수업 정리 →](physical-ai/README.md)
 
-데이터 기초·Python 기초와 심화·Git/GitHub·AI 코드 에이전트·HTML/CSS/React/MCP를 정리했습니다. 실행 가능한 복습 예제와 팀 검수·배포 기록 양식을 포함합니다.
+데이터 기초·Python 기초와 심화·Git/GitHub·AI 코드 에이전트·HTML/CSS/React/MCP를 정리했습니다. 활동별 구현 코드, 공식 과제 6개, 장비 대여 프로젝트, HTML·React 포트폴리오와 실제 실행 기록을 포함합니다.
+
