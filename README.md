@@ -38,3 +38,9 @@ python -m http.server 8000
 
 참고 사이트: https://arduino-shop-gray.vercel.app/ 및 https://exsaeculisinsaecula-star.github.io/arduino-mall/
 레이아웃과 이미지, 코드는 이 프로젝트용으로 새로 작성했습니다.
+
+## 피지컬 AI 학습 기록
+
+[2026년 10월 21일까지 날짜별 수업 정리 →](physical-ai/README.md)
+
+데이터 기초·Python 기초와 심화·Git/GitHub·AI 코드 에이전트·HTML/CSS/React/MCP를 정리했습니다. 실행 가능한 복습 예제와 팀 검수·배포 기록 양식을 포함합니다.
