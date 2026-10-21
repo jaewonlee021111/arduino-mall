@@ -1,7 +1,0 @@
-{
-  "installed": true,
-  "installation_verified": true,
-  "callable_notion_tools_exposed_in_this_session": false,
-  "search_or_read_performed": false,
-  "reason": "Plugin installation confirmed, but no Notion methods are present in the active tool registry. No workspace page or remote read result was fabricated."
-}

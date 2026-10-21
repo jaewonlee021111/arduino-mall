@@ -1,9 +1,0 @@
-{
-  "repository": "jaewonlee021111/arduino-mall",
-  "implementation_commit": "a1a4fc2b85d60fb8f3518e0630c7606df6339a96",
-  "branch": "physical-ai/labs-2026-10-21",
-  "pull_request": "https://github.com/jaewonlee021111/arduino-mall/pull/1",
-  "source_files_in_implementation": 308,
-  "recorded_stage": "PR created; merge status is available at pull_request URL",
-  "human_peer_review": false
-}

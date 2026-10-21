@@ -39,9 +39,8 @@ python -m http.server 8000
 참고 사이트: https://arduino-shop-gray.vercel.app/ 및 https://exsaeculisinsaecula-star.github.io/arduino-mall/
 레이아웃과 이미지, 코드는 이 프로젝트용으로 새로 작성했습니다.
 
-## 피지컬 AI 학습 기록
+## 피지컬 AI 학습 저장소
 
-[2026년 10월 21일까지 날짜별 수업 정리 →](physical-ai/README.md)
+수업 실습·과제·학습 기록은 별도 저장소로 분리했습니다.
 
-데이터 기초·Python 기초와 심화·Git/GitHub·AI 코드 에이전트·HTML/CSS/React/MCP를 정리했습니다. 활동별 구현 코드, 공식 과제 6개, 장비 대여 프로젝트, HTML·React 포트폴리오와 실제 실행 기록을 포함합니다.
-
+[Physical AI Learning · 이재원](https://github.com/jaewonlee021111/physical-ai-learning)
