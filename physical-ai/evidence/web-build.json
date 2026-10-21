@@ -1,0 +1,27 @@
+{
+  "command": "npm run build",
+  "framework": "React 19.3.1 / Vite 8.0.3",
+  "result": "passed",
+  "files": [
+    {
+      "path": "web/react/dist/index.html",
+      "sha256": "986422988ff68688ffa0fd6a826bea4fbfce0ec97833ab173e52e925cc7e8c1c",
+      "bytes": 545
+    },
+    {
+      "path": "web/react/dist/assets/index-DeQj-7rt.js",
+      "sha256": "6c88a62438e5263df40541e139e7fa01b176febb2dfc1ca7d03236b3bd280dd7",
+      "bytes": 231348
+    },
+    {
+      "path": "web/react/dist/assets/index-BjS_JZK_.css",
+      "sha256": "bc8cf754025bb50b0f9c9ed927069aca823dee178abaccb0215b9d3a404f960d",
+      "bytes": 9650
+    }
+  ],
+  "test": {
+    "command": "npm test",
+    "result": "passed",
+    "output": "npm warn Unknown env config \"http-proxy\". This will stop working in the next major version of npm.\n\n> jaewon-physical-ai-react-lab@1.0.0 test\n> node --test src/*.test.mjs\n\n✔ 빈 입력·공백은 세 필드 모두 실패한다 (1.788083ms)\n✔ 이메일 형식과 최소·최대 길이를 검사한다 (0.282776ms)\n✔ 정상 입력과 경계 길이를 허용한다 (0.175405ms)\n✔ 분야 필터는 원본과 분리된 결과를 제공한다 (0.234718ms)\nℹ tests 4\nℹ suites 0\nℹ pass 4\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 122.128718\n"
+  }
+}
